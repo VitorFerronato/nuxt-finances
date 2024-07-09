@@ -1,75 +1,31 @@
-# Nuxt 3 Minimal Starter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# NUXT FINANCES
 
-## Setup
+<div style="display:flex">
+  <img align="center" alt="vuejs" src="https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+<img align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> 
+<img align="center" alt="vuejs" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
+</div>
 
-Make sure to install the dependencies:
+## 💻 The project 
+  Finances is a project designed to help you manage your personal finances. On the home screen, you will find an interactive graph that presents an overview of your spending and expenses. Additionally, you can add your transactions, keeping an up-to-date record of your finances.
+  
+![image](https://github.com/VitorFerronato/nuxt-finances/assets/94748997/bd63a9ef-aa8a-460a-b21c-d99368b92694)
 
-```bash
-# npm
+
+## 🚀 Technologies
+* Vue
+* Nuxt
+* Tailwind
+* Shadcn
+* Composition API
+
+## 🔧 installation
+```
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
+<p> 👷 We are working on new features! </p> 
 
-Build the application for production:
 
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
